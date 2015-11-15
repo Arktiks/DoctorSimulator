@@ -1,6 +1,8 @@
 # DoctorSimulator
 Game made for 2015 November [#UE4JAM](https://forums.unrealengine.com/showthread.php?90285-November-UE4JAM-November-12-15th-Theme-to-be-announced!).
 
+You can download the game directly from [Releases](https://github.com/Arktiks/DoctorSimulator/releases).
+
 #### Level Clear Conditions
 * At least one non-infected cell must remain.
 * Destroy all infected cells.
