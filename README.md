@@ -8,7 +8,7 @@ You can download the game directly from [Releases](https://github.com/Arktiks/Do
 * Destroy all infected cells.
 * Timer doesn't run out.
 
-You can destroy objects by **left-clicking** them. If two infected cells collide they will destroy each other. If non-infected cell collides with an infected cell they will stick together.
+You can destroy objects by **left-clicking** them. If cells collide with each other they will stick together to form clusters. However if two infected cells collide they will destroy each other.
 
 #### Known Problems
 * Physics simulation may be inconsistent between retries.
